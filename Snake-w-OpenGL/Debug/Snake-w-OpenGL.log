@@ -1,0 +1,4 @@
+﻿  Snake-w-OpenGL.cpp
+C:\Users\erene\Desktop\isler\software\tw-ws-main\Snake-Finalé\Snake-Game\Snake-w-OpenGL\Snake-w-OpenGL.cpp(314,3): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+C:\Users\erene\Desktop\isler\software\tw-ws-main\Snake-Finalé\Snake-Game\Snake-w-OpenGL\Snake-w-OpenGL.cpp(489,29): warning C4018: '<': signed/unsigned mismatch
+  Snake-w-OpenGL.vcxproj -> C:\Users\erene\Desktop\isler\software\tw-ws-main\Snake-Finalé\Snake-Game\Debug\Snake-w-OpenGL.exe

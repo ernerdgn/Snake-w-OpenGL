@@ -1,0 +1,4 @@
+﻿  Snake-w-OpenGL.cpp
+C:\Users\erene\Desktop\isler\software\tw-ws-main\Snake-Finalé\Snake-Game\Snake-w-OpenGL\Snake-w-OpenGL.cpp(91,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\erene\Desktop\isler\software\tw-ws-main\Snake-Finalé\Snake-Game\Snake-w-OpenGL\Snake-w-OpenGL.cpp(311,3): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'
